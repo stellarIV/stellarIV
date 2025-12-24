@@ -1,30 +1,63 @@
-<h1 align="center">Hi 👋, I'm Biruk Temesgen</h1>
-<h3 align="center">A passionate Full Stack Developer and AI Engineer</h3>
+<div align="center">
+  <h1>Hi there, I'm <a href="https://github.com/stellariv" target="_blank">Biruk Temesgen</a> 🚀</h1>
+  <h3>Full Stack Developer | AI & Machine Learning Engineer</h3>
+  
+  <p>
+    <a href="https://linkedin.com/in/biruk-temesgen-b315292b8" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    </a>
+    <a href="mailto:biruktmg@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://kaggle.com/biruktemesgen" target="_blank">
+      <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
+    </a>
+    <a href="https://leetcode.com/u/biruktm/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+    </a>
+  </p>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stellariv&label=Profile%20views&color=0e75b6&style=flat" alt="stellariv" /> </p>
+---
 
-- 🌱 I’m currently learning **Machine learning concepts and backend optimization**
+### 👨‍💻 About Me
 
-- 👨‍💻 All of my projects are available at [https://github.com/stellariv](https://github.com/stellariv)
+I am a passionate software engineer focused on building scalable web applications and integrating intelligent AI models into real-world solutions. I thrive on solving complex backend optimization problems and designing intuitive user interfaces.
 
-- 💬 Ask me about **Python, React, Next, Tailwind, Material UI ...**
+- 🔭 **Currently Working on:** Integrating ML models into full-stack web architectures.
+- 🌱 **Learning:** Advanced System Design, Backend Optimization, and NLP.
+- 💬 **Ask Me About:** Python, React ecosystem, Machine Learning pipelines, and Next.js.
+- ⚡ **Interests:** When I'm not debugging, I'm exploring cinema and music.
 
-- 📫 How to reach me **biruktmg@gmail.com**
+---
 
-- ⚡ Fun fact **I like movies and music**
+### 🛠️ Technical Arsenal
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/biruk-temesgen-b315292b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="biruk-temesgen-b315292b8" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/biruktemesgen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/biruktemesgen" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/biruktm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/biruktm/" height="30" width="40" /></a>
+<div align="center">
+
+| **Frontend Development** | **Backend & Database** | **AI & Machine Learning** | **Tools & DevOps** |
+|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,figma&perline=3" /> | <img src="https://skillicons.dev/icons?i=nodejs,graphql,mongodb,firebase,java,cpp&perline=3" /> | <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,opencv,pandas&perline=3" /> | <img src="https://skillicons.dev/icons?i=git,docker,linux,blender,selenium,vscode&perline=3" /> |
+
+</div>
+
+---
+
+### 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stellariv&show_icons=true&theme=transparent&hide_border=true&title_color=007bff&icon_color=007bff&text_color=999" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stellariv&layout=compact&theme=transparent&hide_border=true&title_color=007bff&text_color=999" height="150" alt="languages graph"  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stellariv&theme=transparent&hide_border=true&currStreakLabel=007bff&fire=007bff&ring=007bff" alt="streak graph" />
+</div>
+
+<br />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=stellariv&label=Profile%20Views&color=007bff&style=flat-square" alt="stellariv" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stellariv&show_icons=true&locale=en&layout=compact" alt="stellariv" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stellariv&show_icons=true&locale=en" alt="stellariv" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stellariv&" alt="stellariv" /></p>
