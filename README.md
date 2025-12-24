@@ -22,14 +22,18 @@
 
 ### 👨‍💻 About Me
 
+<img align="right" width="350" src="https://raw.githubusercontent.com/PLAT-M/PLAT-M/main/public/coding-gif.gif" alt="Coding Animation" />
+
 I am a passionate software engineer focused on building scalable web applications and integrating intelligent AI models into real-world solutions. I thrive on solving complex backend optimization problems and designing intuitive user interfaces.
+
+<br/>
 
 - 🔭 **Currently Working on:** Integrating ML models into full-stack web architectures.
 - 🌱 **Learning:** Advanced System Design, Backend Optimization, and NLP.
 - 💬 **Ask Me About:** Python, React ecosystem, Machine Learning pipelines, and Next.js.
 - ⚡ **Interests:** When I'm not debugging, I'm exploring cinema and music.
 
----
+<br clear="both"> ---
 
 ### 🛠️ Technical Arsenal
 
