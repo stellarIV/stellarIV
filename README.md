@@ -123,11 +123,11 @@
 ### 📊 Development Dashboard
 
  <div align="center">
-  <table border="0">
+  <!-- <table border="0">
     <tr>
-      <!-- <td>
+      <td>
         <img src="https://github-readme-stats.vercel.app/api?username=stellariv&show_icons=true&theme=radical&count_private=true&hide_border=false" width="400" />
-      </td> -->
+      </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stellariv&layout=compact&theme=radical&hide_border=false" width="400" />
       </td>
@@ -137,7 +137,7 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=stellariv&theme=radical&hide_border=false" width="815" />
       </td>
     </tr>
-  </table>
+  </table> -->
 </div>
 
 <br/>
