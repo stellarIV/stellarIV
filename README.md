@@ -32,7 +32,7 @@
         <li>🌱 I’m currently learning <b>Advanced Backend Optimization & MLOps</b>.</li>
         <li>👯 I’m looking to collaborate on <b>Open Source AI Projects</b>.</li>
         <li>💬 Ask me about <b>React, Python, Tensor, and System Design</b>.</li>
-        <li>⚡ Fun fact: <b>I debuged code so good that, I didn't forget to put my github profile link in my github profile 😁</b></li>
+        <li>⚡ Fun fact: <b>My debugging is so recursive that I didn't forget to put my GitHub link in my GitHub profile. 🔄</b></li>
       </ul>
     </td>
     <td width="40%" align="center">
