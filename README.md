@@ -122,7 +122,7 @@
 
 ### 📊 Development Dashboard
 
-<div align="center">
+<!-- <div align="center">
   <table border="0">
     <tr>
       <td>
@@ -144,7 +144,7 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=stellariv&theme=react-dark" width="100%"/>
-</div>
+</div> -->
 
 <br/>
 
