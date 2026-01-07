@@ -122,12 +122,12 @@
 
 ### 📊 Development Dashboard
 
-<!-- <div align="center">
+ <div align="center">
   <table border="0">
     <tr>
-      <td>
+      <!-- <td>
         <img src="https://github-readme-stats.vercel.app/api?username=stellariv&show_icons=true&theme=radical&count_private=true&hide_border=false" width="400" />
-      </td>
+      </td> -->
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stellariv&layout=compact&theme=radical&hide_border=false" width="400" />
       </td>
@@ -144,7 +144,7 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=stellariv&theme=react-dark" width="100%"/>
-</div> -->
+</div> 
 
 <br/>
 
